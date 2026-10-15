@@ -16,6 +16,11 @@
     - ??
 
 # Resources
+
+## Videos
+
+- [The Code That Revolutionized Orbital Simulation](https://youtu.be/nCg3aXn5F3M)
+
 ## Books
 
 ### Geometric Numerical Integration  
