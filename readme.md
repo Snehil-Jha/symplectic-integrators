@@ -36,3 +36,6 @@ Excellent bridge between rigorous numerical analysis and physical applications, 
 
 ### Symplectic Integrators Revisited
 Stuchi (2002) presents a pedagogical review of Hamiltonian phase space geometry, generating functions, and Lie algebraic tools used to build explicit symplectic integrators such as Verlet and Strang splitting (Stuchi, 2002).
+
+### Runge-Kutta Schemes for Hamiltonian Systems
+Sans-Serna (1988) contains a derivation for the symplectic condition for a Runge-Kutta integrator using differential 2-forms.
